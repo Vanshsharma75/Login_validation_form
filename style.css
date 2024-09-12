@@ -4,7 +4,7 @@ body {
 }
 
 form {
-    width: 350px;
+    width: 300px;
 }
 
 label {
@@ -28,14 +28,13 @@ button {
 }
 
 .error-message {
-    color:#FF0000;
-    ;
+    color: red;
     font-size: 12px;
     display: none;
 }
 
 .success-message {
-    color:#219F35;
+    color: green;
     font-size: 14px;
     display: none;
 }
